@@ -58,8 +58,7 @@ Welcome to my GitHub profile! I’m passionate about securing systems, analyzing
 - **Security Tools**: Wireshark, Nmap, Nessus, Metasploit, IDA Pro, Ghidra, PE Studio.
 - **Networking**: Basic firewall configuration, IDS/IPS concepts, VPN setup.
 - **Programming & Scripting**: Python, Bash, PowerShell, C++.
-- **Operating Systems**: Windows, Linux.
-- 
+- **Operating Systems**: Windows, Linux. 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=b0yx&icon=0&color=0)](https://visitcount.itsvg.in)
