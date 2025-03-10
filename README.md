@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m passionate about securing systems, analyzing
 🤝 I’m looking for help with **advanced malware analysis and reverse engineering**.  
 🌱 I’m currently learning **threat intelligence, penetration testing, and secure coding practices**.  
 💬 Ask me about **network security, Python scripting, or CTF challenges**.  
-⚡ Fun fact: I won the **ICETI Hackathon 2024**!  
+⚡ Fun fact: I won the **FCIT Hackathon 2024**!  
 
 ---
 
