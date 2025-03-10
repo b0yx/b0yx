@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m passionate about securing systems, analyzing
 👥 I’m looking to collaborate on **security-focused open-source projects**.  
 🤝 I’m looking for help with **advanced malware analysis and reverse engineering**.  
 🌱 I’m currently learning **threat intelligence, penetration testing, and secure coding practices**.  
-💬 Ask me about **network security, Python scripting, or CTF challenges**.  
+💬 Ask me about **network security, Python scripting.  
 ⚡ Fun fact: I won the **FCIT Hackathon 2024**!  
 
 ---
