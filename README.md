@@ -59,8 +59,7 @@ Welcome to my GitHub profile! I’m passionate about securing systems, analyzing
 - **Networking**: Basic firewall configuration, IDS/IPS concepts, VPN setup.
 - **Programming & Scripting**: Python, Bash, PowerShell, C++.
 - **Operating Systems**: Windows, Linux.
-- **Incident Response & Vulnerability Management**: Proficient in detecting and mitigating vulnerabilities.
-
+- 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=b0yx&icon=0&color=0)](https://visitcount.itsvg.in)
