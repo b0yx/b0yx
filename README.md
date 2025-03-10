@@ -1,6 +1,6 @@
 # Hi there, I'm Khalid 👋
 
-🛡️ **Cybersecurity Enthusiast** | **IT Manager** | **Tech Learner**
+🛡️ **Cybersecurity Enthusiast** | **Tech Learner**
 
 Welcome to my GitHub profile! I’m passionate about securing systems, analyzing threats, and improving IT infrastructure. I love exploring cybersecurity tools and techniques, and I’m constantly learning to stay ahead in this fast-paced field.
 
