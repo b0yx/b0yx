@@ -52,18 +52,18 @@ Welcome to my GitHub! I'm passionate about building beautiful, high-performance 
 - **🧾 Electronic Reporting for Engineering Inspection**  
   Flutter + Django project to digitize engineering field inspections. Role-based access for engineers, admins, and clients with PDF export and dynamic forms.
 
-- **📱 Personal Task Manager App**  
-  Flutter app for creating, tracking, and updating to-do tasks. Integrated local SQLite storage and clean UI using custom widgets.
+- **🔐 Secure Data Lock & Recovery App**  
+  Flutter app designed to protect your personal data if your phone is stolen. Send a secret SMS to trigger instant hashing and locking of all sensitive information. Restore data securely later using a pre-set recovery key, ensuring privacy and data safety even in theft scenarios.
 
-- **🌍 Location-Based Alert App** *(Coming Soon)*  
-  Flutter app that sends emergency alerts with real-time GPS tracking.
+- **📊 Intelligent Expense Tracker with AI Insights**  
+  Flutter app that helps users manage personal finances by tracking expenses automatically via OCR scanning of receipts. Features AI-powered spending insights, budget recommendations, and data visualization dashboards to promote smart financial habits.
 
 ---
 
 ## 🛠️ Skills
 
 - **Mobile App Development**: Flutter, Dart, BLoC, Clean Architecture  
-- **Backend Development**: Django, REST APIs, SQLite, PostgreSQL  
+- **Backend Development**: Django, REST APIs, SQLite  
 - **UI/UX Implementation**: Figma to Flutter, responsive layout design  
 - **Tools & Version Control**: Git, GitHub, Postman, VS Code  
 - **Soft Skills**: Problem-solving, teamwork, adaptability, research & documentation
