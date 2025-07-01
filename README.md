@@ -1,75 +1,66 @@
-# 👋 Hi there, I'm Khalid Al-Absi
+# Hi there, I'm Khalid 👋
 
-🎯 **Flutter Developer** | **Mobile App Enthusiast** | **Tech Explorer**
+🛡️ **Cybersecurity Enthusiast** | **Tech Learner**
 
-Welcome to my GitHub! I'm passionate about building beautiful, high-performance mobile apps using Flutter and Dart, with Django as my preferred backend framework. I enjoy crafting smooth UI experiences, integrating powerful APIs, and constantly improving my full-stack development skills.
-
----
-
-## 💫 About Me
-
-🛠️ I’m currently working on **cross-platform mobile apps** and **backend services using Django**  
-📱 I love converting Figma UI designs into clean, functional Flutter interfaces  
-🤝 I’m open to collaborating on **Flutter apps, REST APIs**, and **open-source tools**  
-🌱 Currently learning **advanced Flutter animations** and **state management with BLoC**  
-💬 Ask me about **Flutter, Dart, Django**, and building real-time connected apps  
-⚡ Fun fact: I developed a **construction inspection system** for engineers as my graduation project!
+Welcome to my GitHub profile! I’m passionate about securing systems, analyzing threats, and improving IT infrastructure. I love exploring cybersecurity tools and techniques, and I’m constantly learning to stay ahead in this fast-paced field.
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidalabsi)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaled.s.alabsi@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/b0yx)
-
----
-
-## 💻 Tech Stack
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 💫 About Me:
+🛠️ I’m currently working on **cybersecurity projects** and **backend development with Django**.  
+👥 I’m looking to collaborate on **security-focused open-source projects**.  
+🤝 I’m looking for help with **advanced malware analysis and reverse engineering**.  
+🌱 I’m currently learning **threat intelligence, penetration testing, and secure coding practices**.  
+💬 Ask me about **network security, Python scripting.  
+⚡ Fun fact: I won the **FCIT Hackathon 2024**!  
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=b0yx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=b0yx&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b0yx&theme=dark&hide_border=false&layout=compact)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khalidalabsi/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaled.s.alabsi@gmail.com) 
 
 ---
 
-## 🚀 Featured Projects
-
-- **🧾 Electronic Reporting for Engineering Inspection**  
-  Flutter + Django project to digitize engineering field inspections. Role-based access for engineers, admins, and clients with PDF export and dynamic forms.
-
-- **🔐 Secure Data Lock & Recovery App**  
-  Flutter app designed to protect your personal data if your phone is stolen. Send a secret SMS to trigger instant hashing and locking of all sensitive information. Restore data securely later using a pre-set recovery key, ensuring privacy and data safety even in theft scenarios.
-
-- **📊 Intelligent Expense Tracker with AI Insights**  
-  Flutter app that helps users manage personal finances by tracking expenses automatically via OCR scanning of receipts. Features AI-powered spending insights, budget recommendations, and data visualization dashboards to promote smart financial habits.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🛠️ Skills
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=b0yx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=b0yx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=b0yx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Mobile App Development**: Flutter, Dart, BLoC, Clean Architecture  
-- **Backend Development**: Django, REST APIs, SQLite  
-- **UI/UX Implementation**: Figma to Flutter, responsive layout design  
-- **Tools & Version Control**: Git, GitHub, Postman, VS Code  
-- **Soft Skills**: Problem-solving, teamwork, adaptability, research & documentation
+---
 
+## 💼 Current Projects:
+
+- **Basic Intrusion Detection System (IDS) Simulation**: Created a Python script to log suspicious network traffic using Wireshark.
+- **SSH Server Setup**: Set up an SSH server and applied basic security hardening and access control.
+- **Threat Intelligence Mini-Project**: Used VirusTotal & Shodan to investigate suspicious IP addresses and malware hashes.
+
+---
+
+## 🛠️ Skills:
+
+- **Security Tools**: Wireshark, Nmap, Nessus, Metasploit, IDA Pro, Ghidra, PE Studio.
+- **Networking**: Basic firewall configuration, IDS/IPS concepts, VPN setup.
+- **Programming & Scripting**: Python, Bash, PowerShell, C++.
+- **Operating Systems**: Windows, Linux. 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=b0yx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Made with ❤️ for the Flutter community -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
