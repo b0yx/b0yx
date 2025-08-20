@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about designing secure encryption
 ---
 
 # 💫 About Me:
-🛠️ I’m currently working on **cryptography projects** and **backend development with Django**.  
+🛠️ I’m currently working on **cryptography projects**.
 👥 I’m looking to collaborate on **encryption-focused open-source projects**.  
 🤝 I’m looking for help with **advanced cryptanalysis and secure protocol design**.  
 🌱 I’m currently learning **post-quantum cryptography, zero-knowledge proofs, and secure coding practices**.  
