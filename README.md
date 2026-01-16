@@ -60,9 +60,6 @@ I specialize in translating business and accounting requirements into structured
 
 ## 🌐 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/khalidalabsi/  
-- **Email:** khaled.s.alabsi@gmail.com  
+- **Email:** khaled.s.alabsi@gmail.com
 
 ---
-
-### 👀 Profile Visits
-![Visitor Count](https://visitcount.itsvg.in/api?id=b0yx&icon=0&color=0)
