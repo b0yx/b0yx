@@ -1,65 +1,68 @@
-# 🛡️ Khalid S. Alabsi  
-### **Cybersecurity Researcher | Blue Team Practitioner | Developer & Instructor**
+# 🧩 Khalid S. Alabsi  
+### ERPNext / Frappe Developer | Business Systems & Workflow Automation
 
-Welcome to my GitHub space!  
-I specialize in **defensive security**, **SOC operations**, and **secure software engineering**, supported by strong skills in Python, C++, Linux, and system analysis. My work focuses on building practical security solutions, automations, and research tools used in real-world defensive environments.
+Welcome to my GitHub space.  
+I am an **ERPNext / Frappe Developer** with hands-on experience building real-world business systems focused on **accounting workflows, operational automation, and scalable ERP solutions**. My work bridges **software engineering and business logic**, delivering maintainable systems that solve practical organizational problems.
 
-I enjoy breaking down complex technical problems, designing efficient systems, and helping others grow in cybersecurity.
+I specialize in translating business and accounting requirements into structured ERP modules, custom DocTypes, workflows, and automation using the **Frappe Framework**.
 
 ---
 
 ## 🚀 What I Do
 
-### 🔵 Blue Team & Defensive Security
-- Build and manage SOC home labs (Wazuh, Splunk, ELK)  
-- Create detection rules, log pipelines, and threat-hunting workflows  
-- Perform protocol analysis, packet inspection, and traffic monitoring  
-- Develop security automations for SIEM/XDR environments  
-- Analyze vulnerabilities, misconfigurations, and system weaknesses  
+### 🧠 ERP & Business Systems Development
+- Design and build custom ERPNext systems for real business use cases  
+- Translate accounting and operational workflows into structured ERP modules  
+- Develop custom DocTypes, workflows, naming series, and permission models  
+- Automate business processes using client-side and server-side scripting  
+- Customize ERPNext accounting features, reports, and validations  
 
-### 👨‍🏫 Teaching & Community
-- Instructor for Cybersecurity, SOC Analysis, and Ethical Hacking  
-- Create hands-on labs, real-case exercises, and practical training content  
-- Mentor students entering the cybersecurity and engineering fields  
+### ⚙️ System Architecture & Deployment
+- Build maintainable ERP architectures with clean business logic separation  
+- Implement role-based access control (RBAC) and secure system configurations  
+- Manage development and production environments using Docker and Bench CLI  
+- Integrate REST APIs to extend ERP functionality  
+
+### 👨‍🏫 Teaching & Knowledge Sharing
+- Cybersecurity & technical instructor (part-time)  
+- Design practical training content and hands-on labs  
+- Mentor beginners in software engineering and system thinking  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-`Python` • `C++` • `Bash` • `PowerShell`
+### Programming Languages
+`Python` • `JavaScript` • `C++` • `PHP`
 
-### **Security & Forensics**
-`Wireshark` • `Splunk` • `Wazuh` • `Suricata` • `ELK Stack`
+### ERP & Backend Frameworks
+`ERPNext` • `Frappe Framework` • `Django`
 
-### **Web & Backend Development**
-`Django` • `MySQL` • `SQLite` • `Frappe/ERPNext` • `REST APIs`
+### Databases
+`MariaDB` • `MySQL`
 
-### **Tools & Platforms**
-`Git` • `Docker` • `Postman` • `Figma` • `VMware` • `VirtualBox`
-
----
-
-## 📌 Current Projects
-- **SOC Automation Scripts** – Log parsing, enrichment, and detection workflows  
-- **Secure Messaging Prototype** – End-to-end communication logic  
-- **Hashing & Integrity Checker** – File integrity verification tool  
-- **Research Utilities** – Numerical solvers, modelling scripts, and simulation frameworks  
+### Tools & Platforms
+`Docker` • `Git` • `GitHub` • `Bench CLI` • `Cypress`
 
 ---
 
-## 📊 GitHub Insights  
-![Stats](https://github-readme-stats.vercel.app/api?username=b0yx&theme=dark&hide_border=false)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=b0yx&theme=dark&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0yx&theme=dark&layout=compact)
+## 📌 Selected Project
+
+### ERPNext System – Healthcare & Laboratory Management
+- Custom ERP system built using the Frappe Framework  
+- Accounting, billing, inventory, and operational workflows  
+- Custom DocTypes, workflows, permissions, and reports  
+- Automated validations and business rules  
+- Deployed and managed using Docker  
+- Delivered within a fixed scope and timeline  
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidalabsi/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaled.s.alabsi@gmail.com)
+## 🌐 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/khalidalabsi/  
+- **Email:** khaled.s.alabsi@gmail.com  
 
 ---
 
-### 👀 Profile Visits  
+### 👀 Profile Visits
 ![Visitor Count](https://visitcount.itsvg.in/api?id=b0yx&icon=0&color=0)
