@@ -1,54 +1,67 @@
-# 👋 Hi, I'm Khalid S. Alabsi
+<!-- HEADER -->
 
-### 🚀 ERP Developer (Odoo & ERPNext)
+<h1 align="center">Hi 👋, I'm Khalid S. Alabsi</h1>
+<h3 align="center">🚀 ERP Developer | Odoo & ERPNext Specialist</h3>
 
-**Business Systems | Automation | ERP Architecture**
+<p align="center">
+💼 Business Systems • ⚙️ Automation • 🧠 ERP Architecture
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Odoo-17-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERPNext-Frappe-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am an ERP Developer specializing in **Odoo and ERPNext**, focused on building real-world business systems including **laboratory management, accounting workflows, and operational automation**.
-
-I bridge the gap between **business logic and software engineering**, delivering scalable and maintainable ERP solutions.
+💡 ERP Developer focused on **Odoo & ERPNext**
+🏗 Building real-world systems (Lab, Accounting, Automation)
+🔗 Strong in **business logic + system architecture**
+🐳 Experienced with **Docker-based environments**
 
 ---
 
-## ⚙️ What I Do
+## 🚀 What I Do
 
-### 🧩 ERP Development
-
-* Build full ERP systems using **Odoo 17 & ERPNext**
-* Develop custom modules, DocTypes, workflows, and automation
-* Design business logic for accounting, inventory, and operations
-* Create REST APIs for system integrations
-
-### 🏗 System Architecture
-
-* Design clean, scalable ERP architectures
-* Implement RBAC (role-based access control)
-* Deploy systems using **Docker environments**
-
-### 👨‍🏫 Teaching
-
-* Cybersecurity & technical instructor
-* Create hands-on training labs and mentor developers
+🔹 Build full ERP systems using **Odoo 17 & ERPNext**
+🔹 Design workflows, automation, and business logic
+🔹 Develop REST APIs and system integrations
+🔹 Customize accounting, inventory, and reporting systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**ERP & Frameworks**
-`Odoo 17` • `ERPNext` • `Frappe` • `Django`
+### ⚙️ ERP & Frameworks
 
-**Languages**
-`Python` • `JavaScript` • `C++` • `PHP`
+![Odoo](https://img.shields.io/badge/Odoo-17-purple?style=flat-square)
+![ERPNext](https://img.shields.io/badge/ERPNext-Frappe-blue?style=flat-square)
+![Frappe](https://img.shields.io/badge/Frappe-Framework-blue?style=flat-square)
+![Django](https://img.shields.io/badge/Django-Backend-green?style=flat-square)
 
-**Databases**
-`PostgreSQL` • `MariaDB` • `MySQL`
+### 💻 Languages
 
-**Tools**
-`Docker` • `Git` • `GitHub` • `Bench CLI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square\&logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square)
+
+### 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square\&logo=mysql)
+
+### 🧰 Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square\&logo=github)
+![Bench](https://img.shields.io/badge/Bench-CLI-lightgrey?style=flat-square)
 
 ---
 
@@ -56,38 +69,49 @@ I bridge the gap between **business logic and software engineering**, delivering
 
 ### 🧪 ERPNext Laboratory Management System
 
-✔ Patient & Lab Visit Management
-✔ Dynamic PathNo Generation Logic
-✔ Pricing & Discount System
-✔ Billing & Accounting Integration
-✔ Docker Deployment
+✨ Patient & Lab Visit Management
+✨ Smart PathNo Generation Logic
+✨ Pricing, Discounts & Billing
+✨ Automation & Validation Rules
+✨ Docker Deployment
 
-👉 *(Add project repo link here)*
+👉 🔗 [View Project](https://github.com/YOUR_USERNAME/lab-management-system)
 
 ---
 
-### 🧩 Odoo Custom Modules
+### 🧩 Odoo Custom Development
 
-✔ REST API Development
-✔ Custom Models & ORM Logic
-✔ XML Views (Tree, Form, Actions, Menus)
-✔ Business Workflow Automation
+✨ Custom Modules & ORM Logic
+✨ REST API Integration
+✨ XML Views (Tree, Form, Actions)
+✨ Business Workflow Automation
 
-👉 *(Add project repo link here)*
+👉 🔗 [View Project](https://github.com/YOUR_USERNAME/odoo-custom-modules)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/khalidalabsi/
-* 📧 Email: [khaled.s.alabsi@gmail.com](mailto:khaled.s.alabsi@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/khalidalabsi/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:khaled.s.alabsi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-⭐ *Always building real systems, not just code.*
+<p align="center">
+🔥 <b>I build ERP systems that solve real business problems</b>
+</p>
