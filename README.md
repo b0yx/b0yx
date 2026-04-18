@@ -1,73 +1,49 @@
-<!-- HERO SECTION -->
+<!-- HERO -->
 
-<h1 align="center">👋 Khalid S. Alabsi</h1>
+<h1 align="center">⚡ Khalid S. Alabsi</h1>
 
 <p align="center">
-🚀 <b>ERP Developer | Odoo & ERPNext Specialist</b><br>
-⚙️ Business Systems • Automation • Architecture
+<b>ERP Developer • Odoo & ERPNext Specialist</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=I+build+ERP+systems;I+design+business+logic;I+automate+workflows;Odoo+%7C+ERPNext+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=I+build+ERP+systems;I+design+business+logic;I+automate+workflows;I+solve+real+problems&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🧠 Who I Am
+## 🧠 Identity
 
-I am an **ERP Developer** specializing in **Odoo & ERPNext**, focused on building **real-world business systems** — not demos.
+I am an **ERP Developer** focused on building **real-world systems** using **Odoo & ERPNext**.
 
-💡 I translate **complex business operations** (accounting, labs, workflows) into **structured, scalable ERP solutions**.
-
-> 🔥 My goal: Build systems companies can actually run their business on.
+I don't just write code — I design **business logic**, structure **workflows**, and build systems that **organizations depend on daily**.
 
 ---
 
-# ⚡ What Makes Me Different
+## ⚙️ Philosophy
 
-✅ I think in **systems, not just code**
-✅ I understand **accounting & business workflows**
-✅ I build **production-ready ERP solutions**
-✅ I work with **real environments (Docker, databases, APIs)**
-
----
-
-# 🧩 Featured Work
-
-## 🧪 Laboratory Management System (ERPNext)
-
-🚀 Full ERP system for healthcare & lab operations
-
-### 🔥 Key Features
-
-* 🧾 Patient & Lab Visit Management
-* 🔢 Smart PathNo Generator (dynamic naming logic)
-* 💰 Pricing, Discounts, Billing & Accounting
-* ⚙️ Automation (validations, workflows)
-* 🐳 Docker-based deployment
-
-👉 🔗 **[View Project](https://github.com/YOUR_USERNAME/lab-management-system)**
+* Systems > Scripts
+* Logic > UI
+* Real problems > Demo projects
+* Clean architecture > Quick fixes
 
 ---
 
-## 🧩 Odoo Custom Development (Production Work)
+## ⚡ What I Do
 
-### 🔥 What I Built
-
-* Custom modules using ORM
-* REST APIs for integrations
-* XML views (Tree, Form, Actions, Menus)
-* Workflow automation & validations
-
-👉 🔗 **[View Project](https://github.com/YOUR_USERNAME/odoo-custom-modules)**
+* 🧩 ERP system design (Odoo & ERPNext)
+* ⚙️ Workflow automation & business logic
+* 🔗 API integrations
+* 🐳 Docker-based environments
+* 🧠 Translating business → system
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Stack
 
 <p align="center">
 
@@ -82,28 +58,16 @@ I am an **ERP Developer** specializing in **Odoo & ERPNext**, focused on buildin
 
 ---
 
-# 📊 GitHub Analytics
+## 🧭 Current Direction
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+* 🔥 Advanced ERP Architecture
+* ⚙️ Business Workflow Engineering
+* 🧠 System Thinking & Optimization
+* 🌐 Real-world system deployment
 
 ---
 
-# 🧭 Current Focus
-
-* 🔥 Advanced ERP System Design
-* ⚙️ Automation & Workflow Optimization
-* 🧠 Business Logic Engineering
-* 🌐 API Integrations
-
----
-
-# 🌐 Let's Connect
+## 🌐 Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khalidalabsi/">
@@ -118,5 +82,5 @@ I am an **ERP Developer** specializing in **Odoo & ERPNext**, focused on buildin
 ---
 
 <p align="center">
-🔥 <b>I don't just write code — I build systems that run businesses.</b>
+🔥 <b>I build systems that businesses run on.</b>
 </p>
