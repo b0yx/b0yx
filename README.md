@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>ERP Developer from Sana'a, Yemen</strong><br/>
-  <span>Odoo Developer | ERPNext Developer | Backend Developer | Frappe Developer | ERP Solution Builder | AI Enthusiast</span>
+  <span>Odoo | ERPNext | Frappe | Python | Backend ERP Systems</span>
 </p>
 
 <p align="center">
@@ -22,23 +22,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=Building+production-ready+ERP+systems;Designing+Odoo+and+ERPNext+business+workflows;Automating+real+operations+with+clean+backend+logic;Exploring+AI-powered+ERP+ideas" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=Odoo+Developer;ERPNext+%2F+Frappe+Developer;Backend+ERP+Systems;Business+Workflow+Automation" alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
-## Professional Identity
+## About Me
 
-I build ERP systems that turn business operations into reliable software workflows. My work sits where backend engineering, business logic, automation, and real operational pressure meet: appointments, queues, approvals, invoices, reports, role permissions, dashboards, and integrations.
+I am an **ERP Developer** focused on building practical business systems with **Odoo**, **ERPNext**, and **Frappe Framework**.
 
-I focus on **Odoo**, **ERPNext**, and **Frappe Framework** because they are practical platforms for real companies, not just demo applications. I like systems that are structured, maintainable, and clear enough for teams to keep improving after launch.
+I work on backend logic, custom modules, workflows, reports, Docker environments, and ERP automation for real operational needs.
 
 ```txt
-ERP Developer        Backend Developer       Frappe Developer
-Odoo Developer       ERPNext Developer       ERP Solution Builder
-Business Automation  Docker Environments     AI Enthusiast
+ERP Developer    Odoo Developer    ERPNext Developer
+Backend Systems  Frappe Apps       Business Automation
 ```
 
 ## Current Focus
@@ -46,32 +45,22 @@ Business Automation  Docker Environments     AI Enthusiast
 <table>
   <tr>
     <td width="50%">
-      <h3>Enterprise ERP Systems</h3>
-      <p>Designing modules, workflows, access rules, and reports for real business operations.</p>
+      <h3>Odoo ERP</h3>
+      <p>Custom modules, QWeb reports, OWL views, access rules, and Docker setups.</p>
     </td>
     <td width="50%">
-      <h3>Smart Clinic ERP</h3>
-      <p>Appointments, queue handling, consultation flow, prescriptions, pharmacy, and invoicing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Laboratory ERP</h3>
-      <p>Lab visits, accessioning, grossing, workflow status, audit trails, and operational visibility.</p>
-    </td>
-    <td width="50%">
-      <h3>Odoo 19 Docker Environments</h3>
-      <p>Repeatable development setups with Odoo, PostgreSQL 17, pgAdmin, and custom addons.</p>
+      <h3>ERPNext / Frappe</h3>
+      <p>Custom apps, doctypes, workflows, permissions, reports, and dashboards.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>ERPNext / Frappe Custom Apps</h3>
-      <p>Business-specific doctypes, permissions, dashboards, reports, and automation scripts.</p>
+      <h3>Clinic & Lab ERP</h3>
+      <p>Appointments, lab visits, prescriptions, pharmacy, invoicing, and audit trails.</p>
     </td>
     <td width="50%">
-      <h3>AI-Powered ERP Ideas</h3>
-      <p>Exploring practical AI assistance for reporting, workflow decisions, and operational insight.</p>
+      <h3>Automation</h3>
+      <p>Approvals, notifications, API integrations, dashboards, and business workflows.</p>
     </td>
   </tr>
 </table>
@@ -101,25 +90,21 @@ Business Automation  Docker Environments     AI Enthusiast
   <tr>
     <td width="50%">
       <h3>Smart Clinic ERP</h3>
-      <p>Enterprise clinic and pharmacy workflow system using Odoo.</p>
-      <p><strong>Focus:</strong> appointments, queue, consultation, prescription, pharmacy, invoicing.</p>
+      <p>Odoo-based clinic workflow for appointments, queue, consultation, prescription, pharmacy, and invoicing.</p>
     </td>
     <td width="50%">
       <h3>Laboratory ERPNext</h3>
-      <p>ERPNext/Frappe laboratory workflow system.</p>
-      <p><strong>Focus:</strong> lab visit, accession, grossing, workflow status, audit trail.</p>
+      <p>Frappe/ERPNext lab workflow for visits, accession, grossing, status tracking, and audit trail.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Odoo 19 Docker Template</h3>
-      <p>Dockerized Odoo 19 development environment.</p>
-      <p><strong>Focus:</strong> Odoo server, PostgreSQL 17, pgAdmin, custom addons.</p>
+      <p>Dockerized Odoo 19 environment with PostgreSQL, pgAdmin, and custom addons structure.</p>
     </td>
     <td width="50%">
       <h3>ERP Automation Toolkit</h3>
-      <p>Reusable business automation patterns for ERP systems.</p>
-      <p><strong>Focus:</strong> approvals, dashboards, reports, notifications, workflows.</p>
+      <p>Reusable ERP patterns for approvals, dashboards, reports, notifications, and workflows.</p>
     </td>
   </tr>
 </table>
@@ -138,15 +123,9 @@ Business Automation  Docker Environments     AI Enthusiast
 
 ## Developer Philosophy
 
-> Build the workflow before polishing the screen. A good ERP system must match the business reality, protect the data, and make daily operations easier for the people who depend on it.
+> Business logic first. Clean workflows. Reliable systems.
 
-My engineering values:
-
-- **Business logic first:** understand the operation before writing the module.
-- **Traceable workflows:** every important action should have a clear state, owner, and history.
-- **Maintainable customization:** custom code should be easy to reason about, upgrade, and debug.
-- **Production thinking:** permissions, reporting, backups, Docker, and deployment matter from day one.
-- **Practical creativity:** memorable interfaces are welcome when they support serious work.
+I like ERP software that is simple to use, clear to maintain, and strong enough for daily business operations.
 
 ## GitHub Analytics
 
