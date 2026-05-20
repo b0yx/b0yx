@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/khalidalabsi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF003C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khaled.s.alabsi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FF003C&labelColor=0D1117" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff003c&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/b0yx">
+    <img src="https://komarev.com/ghpvc/?username=b0yx&label=Profile%20Views&color=ff003c&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
@@ -130,28 +130,24 @@ I like ERP software that is simple to use, clear to maintain, and strong enough 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&bg_color=050505" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=b0yx&show_icons=true&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&bg_color=050505" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=b0yx&theme=dark&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=050505" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0yx&layout=compact&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=050505" alt="Top languages" />
 </p>
 
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=b0yx&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
 </p>
 
 ## Contribution Flow
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="./assets/contribution-flow.svg" alt="GitHub contribution flow" width="100%" />
 </p>
 
 <p align="center">

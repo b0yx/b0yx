@@ -1,0 +1,42 @@
+<svg width="1000" height="170" viewBox="0 0 1000 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution flow</title>
+  <desc id="desc">A local cyberpunk contribution flow panel used as a clean fallback for the profile README.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset="0.48" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="168" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <path d="M42 44H205" stroke="#FF003C" stroke-width="5" filter="url(#glow)"/>
+  <path d="M795 126H958" stroke="#FF003C" stroke-width="5" filter="url(#glow)"/>
+  <path d="M255 85H745" stroke="#30363D" stroke-width="2"/>
+  <path d="M255 85H455" stroke="#FF003C" stroke-width="3" filter="url(#glow)"/>
+  <g transform="translate(470 50)">
+    <path d="M60 0L120 35V105L60 140L0 105V35L60 0Z" fill="#050505" stroke="#FF003C" stroke-width="3"/>
+    <path d="M60 30L90 47V82L60 100L30 82V47L60 30Z" fill="#FF003C"/>
+  </g>
+  <g fill="#FF003C">
+    <rect x="270" y="72" width="12" height="12"/>
+    <rect x="303" y="72" width="12" height="12" opacity="0.75"/>
+    <rect x="336" y="72" width="12" height="12" opacity="0.55"/>
+    <rect x="369" y="72" width="12" height="12" opacity="0.9"/>
+    <rect x="402" y="72" width="12" height="12"/>
+    <rect x="435" y="72" width="12" height="12" opacity="0.65"/>
+  </g>
+  <g fill="#CCCCCC" opacity="0.5">
+    <rect x="653" y="72" width="12" height="12"/>
+    <rect x="686" y="72" width="12" height="12"/>
+    <rect x="719" y="72" width="12" height="12"/>
+  </g>
+  <text x="500" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="17" font-weight="700">CONTRIBUTION FLOW</text>
+  <text x="500" y="154" text-anchor="middle" fill="#CCCCCC" font-family="Consolas, JetBrains Mono, monospace" font-size="12">workflow automation | backend systems | ERP modules</text>
+</svg>
