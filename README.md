@@ -130,12 +130,13 @@ I like ERP software that is simple to use, clear to maintain, and strong enough 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=b0yx&show_icons=true&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&bg_color=050505" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b0yx&theme=github_dark" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=b0yx&theme=dark&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0yx&layout=compact&theme=transparent&hide_border=true&title_color=FF003C&text_color=FFFFFF&bg_color=050505" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b0yx&theme=github_dark" alt="Top languages by repository" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b0yx&theme=github_dark" alt="Top languages by commits" />
 </p>
 
 ## Achievements
