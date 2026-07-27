@@ -20,7 +20,7 @@ jobs:
           github_user_name: b0yx
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF003C&color_dots=#161B22,#333333,#FF99AA,#FF4D73,#FF003C
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2490EF&color_dots=#161B22,#333333,#1a5276,#1a75c9,#2490EF
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

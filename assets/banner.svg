@@ -1,73 +1,89 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Khalid Alabsi GitHub profile banner</title>
-  <desc id="desc">Dark cyberpunk banner for an ERP developer with red, black, and white visual styling.</desc>
+  <title id="title">Khalid Alabsi - ERPNext Certified Consultant</title>
+  <desc id="desc">Professional banner for an ERPNext Certified Consultant and Frappe Framework Developer based in Sana'a, Yemen.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050505"/>
-      <stop offset="0.48" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#050505"/>
+      <stop stop-color="#080C12"/>
+      <stop offset="0.5" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#080C12"/>
     </linearGradient>
-    <linearGradient id="redGlow" x1="100" y1="40" x2="1100" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF003C" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FF003C" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#FF003C" stop-opacity="0"/>
+    <linearGradient id="blueGlow" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2490EF" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#2490EF" stop-opacity="0.15"/>
+      <stop offset="0.7" stop-color="#2490EF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#2490EF" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 1 0 0 0 0 0 0 0 0 0 0.24 0 0 0 1 0"/>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2490EF"/>
+      <stop offset="1" stop-color="#2490EF" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="hexGrad" x1="0" y1="0" x2="192" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2490EF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2490EF" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.14 0 0 0 0 0.56 0 0 0 0 0.94 0 0 0 0.6 0"/>
       <feMerge>
         <feMergeNode/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="0.5"/>
     </pattern>
-    <clipPath id="slashClip">
-      <path d="M0 0H1200V360H0V0Z"/>
-    </clipPath>
   </defs>
 
   <rect width="1200" height="360" fill="url(#bg)"/>
   <rect width="1200" height="360" fill="url(#grid)"/>
-  <path d="M-120 296C164 224 277 331 526 219C775 107 924 4 1320 77" stroke="url(#redGlow)" stroke-width="82" stroke-linecap="round"/>
+  <rect width="1200" height="360" fill="url(#blueGlow)"/>
 
-  <g clip-path="url(#slashClip)" opacity="0.95">
-    <path d="M927 -20H1002L797 380H722L927 -20Z" fill="#FF003C"/>
-    <path d="M1018 -20H1048L843 380H813L1018 -20Z" fill="#FFFFFF" fill-opacity="0.88"/>
-    <path d="M1073 -20H1120L915 380H868L1073 -20Z" fill="#FF003C" fill-opacity="0.42"/>
-    <path d="M-35 315H338" stroke="#FF003C" stroke-width="7"/>
-    <path d="M30 337H295" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="2"/>
+  <g opacity="0.6">
+    <path d="M850 20L920 60V140L850 180L780 140V60L850 20Z" fill="none" stroke="#2490EF" stroke-opacity="0.15" stroke-width="1"/>
+    <path d="M960 60L1030 100V180L960 220L890 180V100L960 60Z" fill="url(#hexGrad)" stroke="#2490EF" stroke-opacity="0.1" stroke-width="1"/>
+    <path d="M1070 30L1140 70V150L1070 190L1000 150V70L1070 30Z" fill="none" stroke="#2490EF" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M910 140L980 180V260L910 300L840 260V180L910 140Z" fill="none" stroke="#2490EF" stroke-opacity="0.06" stroke-width="1"/>
+    <circle cx="850" cy="100" r="3" fill="#2490EF" fill-opacity="0.2"/>
+    <circle cx="960" cy="140" r="3" fill="#2490EF" fill-opacity="0.15"/>
+    <circle cx="1070" cy="110" r="3" fill="#2490EF" fill-opacity="0.12"/>
+    <circle cx="910" cy="220" r="3" fill="#2490EF" fill-opacity="0.1"/>
+    <line x1="850" y1="100" x2="960" y2="140" stroke="#2490EF" stroke-opacity="0.08" stroke-width="1"/>
+    <line x1="960" y1="140" x2="1070" y2="110" stroke="#2490EF" stroke-opacity="0.06" stroke-width="1"/>
+    <line x1="960" y1="140" x2="910" y2="220" stroke="#2490EF" stroke-opacity="0.06" stroke-width="1"/>
   </g>
 
-  <g transform="translate(70 58)">
-    <rect x="0" y="0" width="650" height="244" rx="0" fill="#050505" fill-opacity="0.66" stroke="#FF003C" stroke-width="2"/>
-    <path d="M0 0H650V10H0V0Z" fill="#FF003C"/>
-    <path d="M22 52H212" stroke="#FF003C" stroke-width="5" stroke-linecap="square" filter="url(#glow)"/>
-    <text x="22" y="96" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="0">Khalid Alabsi</text>
-    <text x="24" y="132" fill="#CCCCCC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">ERP Developer | Odoo | ERPNext | Frappe</text>
-    <text x="24" y="170" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="16">production_ready = workflow + backend + automation</text>
-    <g transform="translate(24 196)">
-      <rect x="0" y="0" width="112" height="28" fill="#FF003C"/>
-      <text x="14" y="19" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="13" font-weight="700">ODOO</text>
-      <rect x="124" y="0" width="112" height="28" fill="#0D1117" stroke="#FF003C"/>
-      <text x="138" y="19" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="13" font-weight="700">ERPNEXT</text>
-      <rect x="248" y="0" width="112" height="28" fill="#0D1117" stroke="#FFFFFF" stroke-opacity="0.5"/>
-      <text x="262" y="19" fill="#FFFFFF" font-family="Consolas, JetBrains Mono, monospace" font-size="13" font-weight="700">PYTHON</text>
+  <g transform="translate(70 50)">
+    <rect x="0" y="0" width="680" height="260" rx="4" fill="#0D1117" fill-opacity="0.8" stroke="#2490EF" stroke-opacity="0.25" stroke-width="1.5"/>
+    <rect x="0" y="0" width="680" height="3" fill="#2490EF"/>
+    <rect x="24" y="40" width="180" height="4" rx="2" fill="url(#accentLine)"/>
+    <text x="24" y="92" fill="#FFFFFF" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-0.5">Khalid Alabsi</text>
+    <text x="26" y="130" fill="#2490EF" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="18" font-weight="600">ERPNext Certified Consultant</text>
+    <text x="26" y="158" fill="#CCCCCC" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="17" font-weight="500">Frappe Framework Developer | ERP Implementation Consultant</text>
+    <text x="26" y="192" fill="#8B949E" font-family="Consolas, 'JetBrains Mono', monospace" font-size="14">ERPNext • Frappe • Python • Business Automation</text>
+    <g transform="translate(26 218)">
+      <rect x="0" y="0" width="100" height="26" rx="3" fill="#2490EF"/>
+      <text x="50" y="17" fill="#FFFFFF" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">ERPNEXT</text>
+      <rect x="112" y="0" width="100" height="26" rx="3" fill="#0D1117" stroke="#2490EF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="162" y="17" fill="#FFFFFF" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">FRAPPE</text>
+      <rect x="224" y="0" width="100" height="26" rx="3" fill="#0D1117" stroke="#2490EF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="274" y="17" fill="#FFFFFF" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">PYTHON</text>
+      <rect x="336" y="0" width="120" height="26" rx="3" fill="#0D1117" stroke="#2490EF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="396" y="17" fill="#FFFFFF" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">AUTOMATION</text>
     </g>
   </g>
 
-  <g transform="translate(782 82)" filter="url(#glow)">
-    <path d="M96 0L192 55V165L96 220L0 165V55L96 0Z" fill="#0D1117" stroke="#FF003C" stroke-width="4"/>
-    <path d="M96 32L164 71V149L96 188L28 149V71L96 32Z" fill="#050505" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="2"/>
-    <path d="M54 119L86 151L142 74" stroke="#FF003C" stroke-width="13" stroke-linecap="square" stroke-linejoin="miter"/>
-    <path d="M52 118L86 152L145 72" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <g transform="translate(810 100)" filter="url(#softGlow)">
+    <path d="M96 0L192 55V165L96 220L0 165V55L96 0Z" fill="#0D1117" stroke="#2490EF" stroke-width="2.5"/>
+    <path d="M96 32L164 71V149L96 188L28 149V71L96 32Z" fill="#080C12" stroke="#2490EF" stroke-opacity="0.4" stroke-width="1.5"/>
+    <path d="M96 60L140 86V134L96 160L52 134V86L96 60Z" fill="none" stroke="#2490EF" stroke-opacity="0.25" stroke-width="1"/>
+    <circle cx="96" cy="110" r="8" fill="#2490EF" fill-opacity="0.15" stroke="#2490EF" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="96" cy="110" r="3" fill="#2490EF"/>
   </g>
 
-  <g opacity="0.72">
-    <text x="865" y="312" fill="#CCCCCC" font-family="Consolas, JetBrains Mono, monospace" font-size="14">SANA'A, YEMEN</text>
-    <text x="70" y="330" fill="#FF003C" font-family="Consolas, JetBrains Mono, monospace" font-size="13">ERP SOLUTION BUILDER</text>
-    <text x="250" y="330" fill="#CCCCCC" font-family="Consolas, JetBrains Mono, monospace" font-size="13">BACKEND SYSTEMS</text>
-    <text x="430" y="330" fill="#CCCCCC" font-family="Consolas, JetBrains Mono, monospace" font-size="13">BUSINESS AUTOMATION</text>
+  <g opacity="0.75">
+    <text x="850" y="280" fill="#8B949E" font-family="Consolas, 'JetBrains Mono', monospace" font-size="13">SANA'A, YEMEN</text>
+    <text x="70" y="338" fill="#2490EF" font-family="Consolas, 'JetBrains Mono', monospace" font-size="12" font-weight="600">ERP SOLUTIONS</text>
+    <text x="210" y="338" fill="#8B949E" font-family="Consolas, 'JetBrains Mono', monospace" font-size="12">FRAPPE FRAMEWORK</text>
+    <text x="400" y="338" fill="#8B949E" font-family="Consolas, 'JetBrains Mono', monospace" font-size="12">BUSINESS AUTOMATION</text>
   </g>
 </svg>
